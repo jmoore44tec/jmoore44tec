@@ -11,7 +11,7 @@
 
 - Because I am still new to coding, I do not have very crazy ideas for projects. Most of my personal work takes the form of games as I enjoy exploring ways to make coding more fun.
 - So far I am working on:
-+ C++ gaming engine - Arcade Shooter (Mech vs Alien game)
++ C++ physics based gaming engine - Arcade Shooter (Mech vs Alien game)
 + C++ Text-Based Adventure RPG
 + HTML5 Text-Based Adventure RPG
 + Java Triple Pack (Includes 21, Matching Game, and Guess Who?)

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmoore44tec
 - 👀 I’m interested in music, coding, video games and anime!
 - 🌱 I’m currently attending SNHU for a BS in Computer Science with a focus on Software Development.
-- 🧑🏾‍💼 Professional Work: web-design, HTML (Website for a music artist with continuous updates) ( https://clevertribe.neocities.org/CT%20site )
+- 🧑🏾‍💼 Professional Work: web-design, HTML (Website for a music artist with continuous updates) (  )
 - 💞️ I’m looking to collaborate on various projects. I currently have a decent handle on C++, Java, HTML, SQL, and some Python as well!
 - 📫 Reach Me: jmoore13tec@gmail.com
 - 😄 Pronouns: He/Him

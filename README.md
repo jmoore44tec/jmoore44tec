@@ -12,9 +12,10 @@
 - Because I am still new to coding, I do not have very crazy ideas for projects. Most of my personal work takes the form of games as I enjoy exploring ways to make coding more fun.
 - So far I am working on:
 + JavaScript, CSS, HTML Weather Application 
++ Plant Care Reminder Application
 + C++ physics based gaming engine - Arcade Shooter (Mech vs Alien game)
 + + HTML5 Text-Based Adventure RPG
-+ Java Triple Pack (Includes 21, Matching Game, and Guess Who?)
+
 
 
 

@@ -1,18 +1,16 @@
 - 👋 Hi, I’m @jmoore44tec
 - 👀 I’m interested in music, coding, video games and anime!
 - 🌱 I’m currently attending SNHU for a BS in Computer Science with a focus on Software Development.
-- 🧑🏾‍💼 Professional Work: web-design, HTML (Website for a music artist with continuous updates) (  )
-- 💞️ I’m looking to collaborate on various projects. I currently have a decent handle on C++, Java, HTML, SQL, and some Python as well!
+- 🧑🏾‍💼 Professional Work: Web-design, Web application development
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 Reach Me: jmoore13tec@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have many years of experience in music production and audio engineering as well!
 
-- Many of my personal projects are in the form of txt files as I am not on my own PC. I compiled each file using online compilers for C++ and Java.
-
-- Because I am still new to coding, I do not have very crazy ideas for projects. Most of my personal work takes the form of games as I enjoy exploring ways to make coding more fun.
+- Most of my personal work takes the form of games as I enjoy exploring ways to make coding more fun.
 - So far I am working on:
 + Plant Care Reminder Application
-+ C++ physics based gaming engine - Arcade Shooter (Mech vs Alien game)
++ C++ physics based gaming engine - Arcade Shooter 
 + HTML5 Text-Based Adventure RPG
 
 

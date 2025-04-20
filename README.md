@@ -8,7 +8,8 @@
 - ⚡ Fun fact: I have many years of experience in music production and audio engineering as well!
 
 - Most of my personal work takes the form of games as I enjoy exploring ways to make coding more fun.
-- So far I am working on:
+
+  Currently I am working on:
 + Plant Care Reminder Application
 + C++ physics based gaming engine - Arcade Shooter 
 + HTML5 Text-Based Adventure RPG

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmoore44tec
 - 👀 I’m interested in music, coding, video games and anime!
-- 🌱 I’m currently attending SNHU for a BS in Computer Science with a focus on Software Development.
+- 🌱 I’m currently attending SNHU for a BS in Computer Science with a focus on Software Engineering.
 - 🧑🏾‍💼 Professional Work: Web-design, Web application development
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 Reach Me: jmoore13tec@gmail.com
